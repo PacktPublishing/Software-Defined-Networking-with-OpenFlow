@@ -17,7 +17,3 @@ By the end of this book, you will be able to implement OpenFlow concepts and imp
 
 * [Software Defined Networking with VMware NSX [Video]](https://www.packtpub.com/virtualization-and-cloud/software-defined-networking-vmware-nsx-video?utm_source=github&utm_medium=repository&utm_campaign=9781786466716)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781783984282">https://packt.link/free-ebook/9781783984282 </a> </p>
